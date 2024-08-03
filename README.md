@@ -1,2 +1,1 @@
-# cloud-resume-challenge
-AWS Cloud Resume Challenge using AWS SAM 
+Cloud Resume Challenge using SAM
